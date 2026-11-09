@@ -1,0 +1,4 @@
+﻿指标名称 (Biomarker),Control正态p值,Probiotic正态p值,满足正态性(p>0.05),Levene方差齐性p值,Bartlett齐性p值,满足方差齐(p>0.05),推荐检验方法
+SOD_Normal_Homo,0.7467,0.7829,是,0.8983,0.7056,是,Student's t-test (正态且方差齐)
+MDA_Normal_Hetero,0.416,0.923,是,0.0001,0.0,否(异方差),Welch's t-test (正态但方差不齐)
+IL6_Skewed,0.0,0.0002,否(偏态),0.4956,0.0678,是,Mann-Whitney U test (非正态偏态分布)

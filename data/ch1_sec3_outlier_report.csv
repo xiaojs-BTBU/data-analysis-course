@@ -1,0 +1,5 @@
+﻿Well_ID,Group,Metric,Value,IQR_Bounds,Detected_by_IQR,3Sigma_Bounds,Detected_by_3Sigma
+W06,LPS_Model,TNF_alpha,495.0,"[207.7, 324.9]",是 (Yes),"[76.2, 490.1]",是 (Yes)
+W05,LPS_Model,IL_6,145.96,"[155.2, 214.6]",是 (Yes),"[126.2, 238.8]",否 (漏检!)
+W08,LPS_Model,IL_6,151.15,"[155.2, 214.6]",是 (Yes),"[126.2, 238.8]",否 (漏检!)
+W19,Polysaccharide,NO_production,68.5,"[5.4, 31.5]",是 (Yes),"[-22.1, 67.5]",是 (Yes)

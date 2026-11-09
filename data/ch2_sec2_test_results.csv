@@ -1,0 +1,4 @@
+﻿Biomarker,Control (Mean±SD / Med[IQR]),Treatment (Mean±SD / Med[IQR]),Method,Statistic,p_value,Effect_Size
+SOD,84.67±5.24,108.11±4.76,Student's t-test,11.478,0.0,d = 4.69
+MDA,5.72±0.42,3.95±1.84,Welch's t-test,-3.247,0.00692,d = -1.33
+TNF_a,154.06 (42.73),51.05 (12.73),Mann-Whitney U,0.0,4e-05,r_rb = -1.00
