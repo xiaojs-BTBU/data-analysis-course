@@ -1,0 +1,28 @@
+﻿Temperature,Antioxidant_Group,Replicate,POV_meq_kg
+4°C (冷藏),Blank Oil (空白油脂),1,2.28
+4°C (冷藏),Blank Oil (空白油脂),2,2.85
+4°C (冷藏),Blank Oil (空白油脂),3,2.89
+4°C (冷藏),Oil + BHT (合成抗氧化剂),1,2.54
+4°C (冷藏),Oil + BHT (合成抗氧化剂),2,1.76
+4°C (冷藏),Oil + BHT (合成抗氧化剂),3,2.3
+4°C (冷藏),Oil + UAE-350W Extract (天然多酚),1,2.21
+4°C (冷藏),Oil + UAE-350W Extract (天然多酚),2,2.48
+4°C (冷藏),Oil + UAE-350W Extract (天然多酚),3,2.22
+25°C (室温),Blank Oil (空白油脂),1,9.31
+25°C (室温),Blank Oil (空白油脂),2,9.08
+25°C (室温),Blank Oil (空白油脂),3,9.16
+25°C (室温),Oil + BHT (合成抗氧化剂),1,5.63
+25°C (室温),Oil + BHT (合成抗氧化剂),2,4.95
+25°C (室温),Oil + BHT (合成抗氧化剂),3,5.31
+25°C (室温),Oil + UAE-350W Extract (天然多酚),1,4.96
+25°C (室温),Oil + UAE-350W Extract (天然多酚),2,5.15
+25°C (室温),Oil + UAE-350W Extract (天然多酚),3,4.83
+37°C (加速),Blank Oil (空白油脂),1,20.74
+37°C (加速),Blank Oil (空白油脂),2,21.45
+37°C (加速),Blank Oil (空白油脂),3,21.57
+37°C (加速),Oil + BHT (合成抗氧化剂),1,10.05
+37°C (加速),Oil + BHT (合成抗氧化剂),2,10.32
+37°C (加速),Oil + BHT (合成抗氧化剂),3,9.93
+37°C (加速),Oil + UAE-350W Extract (天然多酚),1,8.59
+37°C (加速),Oil + UAE-350W Extract (天然多酚),2,8.78
+37°C (加速),Oil + UAE-350W Extract (天然多酚),3,9.14

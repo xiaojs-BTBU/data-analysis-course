@@ -1,0 +1,5 @@
+﻿模块场景,要素1_重复与格式,要素2_先验假设检验,要素3_核心统计与事后检验,要素4_显著性水准,要素5_软件与包版本
+两组差异比较 (t检验/非参数),"n=3~6 独立生物学重复; 正态用 Mean±SD, 偏态用 Median(IQR)",Shapiro-Wilk 正态性检验 + Levene 方差齐性检验,Student's t-test (方差齐) / Welch's t-test (方差不齐) / Mann-Whitney U,"双侧检验 (Two-tailed), p < 0.05","Python 3.10 (scipy v1.11, pingouin v0.5.4)"
+多组单/双因素比较 (ANOVA),n=3~6 独立生物学重复; Mean±SD,残差 Shapiro-Wilk 正态检验 + Levene 方差齐性检验,One-way / Two-way ANOVA + Tukey's HSD (或 Games-Howell) + 紧凑字母标记法(CLD),不同小写字母 (a-d) 代表 p < 0.05 差异显著,"Python 3.10 (pingouin v0.5.4, statsmodels v0.14)"
+响应面优化与非线性动力学,中心点重复 3~5 次评估纯误差; 拟合参数报估计值 ± 标准误,残差正态性检验与失拟项检验 (Lack of fit p > 0.05),多元二次多项式回归 + Levenberg-Marquardt 非线性最小二乘拟合 (curve_fit),"模型 p < 0.001, 失拟项 p > 0.05, R² > 0.90","Python 3.10 (scipy.optimize, statsmodels)"
+多元统计、转录组与机器学习,组学每组 n>=3~6; 机器学习按 8:2 分层切分训练集与独立测试集,Z-score 消除量纲; Pipeline 严防数据泄露; 200次置换检验防过拟合,PCA / HCA / PLS-DA (VIP>1.0) / BH-FDR 校正 / 5折交叉验证 RF & SVM,|log2FC| >= 1.0 且 FDR < 0.05; VIP > 1.0,"Python 3.10 (scikit-learn v1.3, seaborn v0.13)"

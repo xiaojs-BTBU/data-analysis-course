@@ -1,0 +1,5 @@
+﻿Variable (检测指标),Control (n=30),Coating (n=30),Statistical Method,Statistic,p-value,Effect Size
+"Spoilage Rate 霉变率, n (%)",14 (46.7%),3 (10.0%),Pearson Chi-Square,χ² = 9.93,0.0016**,OR = 7.88
+Vitamin C (mg/100g),33.54 ± 5.10,49.31 ± 5.41,Student's t-test,t = 11.62,<0.0001***,d = 3.00
+Weight Loss 失重率 (%),7.94 ± 1.59,3.79 ± 0.57,Welch's t-test,t = -13.44,<0.0001***,d = -3.47
+Total Colonies 菌落总数 (log CFU/g),6.11 (1.19),3.50 (0.35),Mann-Whitney U,U = 0.0,<0.0001***,r = -1.00

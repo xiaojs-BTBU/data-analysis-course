@@ -1,0 +1,13 @@
+﻿Category,Pathway_Name,Gene_Count,Rich_Factor,p_value,FDR
+KEGG,AMPK signaling pathway,28,0.42,1.2e-08,1.5e-06
+KEGG,PPAR signaling pathway,24,0.48,3.5e-08,2.8e-06
+KEGG,Glutathione metabolism,19,0.45,1.8e-07,9.2e-06
+KEGG,Fatty acid degradation,22,0.39,6.4e-07,2.4e-05
+KEGG,NF-kappa B signaling pathway,25,0.36,2.1e-06,6.5e-05
+KEGG,TNF signaling pathway,21,0.34,8.5e-06,0.00021
+GO_BP,Response to oxidative stress,32,0.44,4.2e-08,3.1e-06
+GO_BP,Lipid catabolic process,26,0.37,1.5e-06,4.8e-05
+GO_BP,Inflammatory response,29,0.33,5.2e-06,0.00014
+KEGG,Steroid biosynthesis,14,0.31,2.4e-05,0.00052
+KEGG,Peroxisome,18,0.29,6.8e-05,0.0012
+GO_MF,Antioxidant activity,16,0.41,9.5e-07,3.4e-05

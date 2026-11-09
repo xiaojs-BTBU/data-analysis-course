@@ -1,0 +1,4 @@
+﻿Model,Key_Parameters,R2
+First-Order Degradation (花青素一级热降解),"C0=98.9%, k1=0.0114 min^-1, t1/2=60.9 min",0.9973
+Second-Order Degradation (花青素二级热降解),"C0=104.1%, k2=0.00020",0.959
+Modified Gompertz Growth (植物乳杆菌S型生长),"K=2.45, μm=0.282 h^-1, Lag λ=3.91 h",0.9987
